@@ -1,6 +1,6 @@
 # DSA Use Cases
 
-Mo students learn DSA only for interviews.
+Most students learn DSA only for interviews.
 
 This repository demonstrates how Data Structures and Algorithms are used in real-world software applications.
 
